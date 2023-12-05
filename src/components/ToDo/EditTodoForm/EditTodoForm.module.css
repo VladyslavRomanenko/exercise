@@ -1,0 +1,29 @@
+.form {
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+.input {
+  outline: none;
+  background: transparent;
+  border: 1px solid #8758ff;
+  padding: 9px;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  font-size: 18px;
+  width: 300px;
+  color: #fff;
+}
+
+.input::placeholder {
+  color: #ffffff4d;
+}
+
+.btn {
+  background: #8758ff;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  font-size: 18px;
+  cursor: pointer;
+}

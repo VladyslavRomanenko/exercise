@@ -1,0 +1,9 @@
+@import "modern-normalize";
+
+body {
+  background-color: rgb(139, 10, 139);
+}
+
+ul {
+  list-style: none;
+}
